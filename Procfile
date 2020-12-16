@@ -1,0 +1,1 @@
+web: java -jar target/jee-spring-mvc-1.0.jar
